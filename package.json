@@ -1,0 +1,17 @@
+{
+  "name": "youtube-clone-backend",
+  "version": "1.0.0",
+  "description": "A youtube clone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "Js",
+    "backend"
+  ],
+  "author": "Rabby Sikder",
+  "license": "ISC"
+}
